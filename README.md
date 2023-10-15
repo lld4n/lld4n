@@ -9,6 +9,84 @@
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2059%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-60-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 3.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 460 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 12 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                151 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
+🌆 Daytime                260 commits         ███████░░░░░░░░░░░░░░░░░░   28.89 % 
+🌃 Evening                341 commits         █████████░░░░░░░░░░░░░░░░   37.89 % 
+🌙 Night                  148 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   220 commits         ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
+Tuesday                  156 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
+Wednesday                91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+Thursday                 118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Friday                   66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+Saturday                 98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+Sunday                   151 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Moscow
+
+💬 Programming Languages: 
+TypeScript               16 hrs 24 mins      ███████████████████░░░░░░   76.00 % 
+Markdown                 1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+JavaScript               1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+JSON                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+SCSS                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+
+🔥 Editors: 
+VS Code                  21 hrs 35 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+lext                     20 hrs 16 mins      ███████████████████████░░   93.84 % 
+cyberdrom                1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+
+💻 Operating System: 
+Mac                      21 hrs 35 mins      █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     25 repos            ████████████████░░░░░░░░░   64.10 % 
+TypeScript               9 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/lld4n/lld4n/main/assets/bar_graph.png)
+
+
+ Last Updated on 15/10/2023 13:51:20 UTC
 <!--END_SECTION:waka-->
 
 ---
