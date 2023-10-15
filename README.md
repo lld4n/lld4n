@@ -52,3 +52,7 @@ Last Updated on 15/10/2023 14:03:38 UTC
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lld4n/lld4n/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lld4n/lld4n/output/github-contribution-grid-snake.svg">
   </picture>
+
+---
+
+[![lldan LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=lldan&theme=dark)](https://leetcode.com/lldan/)
