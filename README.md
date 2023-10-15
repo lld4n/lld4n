@@ -55,4 +55,4 @@ Last Updated on 15/10/2023 14:03:38 UTC
 
 ---
 
-[![lldan LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=lldan&theme=dark)](https://leetcode.com/lldan/)
+<div align="center"><img src="https://leetcode-stats-six.vercel.app/api?username=lldan&theme=dark"/></div>
