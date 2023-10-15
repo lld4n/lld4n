@@ -1,14 +1,11 @@
 name: generate animation
 
 on:
-  # run automatically every 24 hours
   schedule:
     - cron: '0 0 * * *'
 
-  # allows to manually run the job at any time
   workflow_dispatch:
 
-  # run on every push on the master branch
   push:
     branches:
       - master
@@ -22,6 +19,11 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_SHORT_INFO: 'False'
+          SHOW_TIMEZONE: 'False'
+          SHOW_EDITORS: 'False'
+          SHOW_OS: 'False'
+          SHOW_LOC_CHART: 'False'
   generate:
     permissions:
       contents: write
@@ -29,7 +31,6 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
@@ -40,8 +41,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # push the content of <build_dir> to a branch
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
