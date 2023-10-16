@@ -6,45 +6,47 @@ Kazan
 </div>
 
 <!--START_SECTION:waka-->
-
-**I'm a Night 🦉**
-
-```text
-🌞 Morning                151 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.72 %
-🌆 Daytime                263 commits         ███████░░░░░░░░░░░░░░░░░░   29.13 %
-🌃 Evening                341 commits         █████████░░░░░░░░░░░░░░░░   37.76 %
-🌙 Night                  148 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.39 %
-```
-
-📅 **I'm Most Productive on Monday**
+**I'm a Night 🦉** 
 
 ```text
-Monday                   220 commits         ██████░░░░░░░░░░░░░░░░░░░   24.36 %
-Tuesday                  156 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.28 %
-Wednesday                91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.08 %
-Thursday                 118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 %
-Friday                   66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
-Saturday                 98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.85 %
-Sunday                   154 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.05 %
+🌞 Morning                151 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
+🌆 Daytime                263 commits         ███████░░░░░░░░░░░░░░░░░░   29.22 % 
+🌃 Evening                344 commits         ██████████░░░░░░░░░░░░░░░   38.22 % 
+🌙 Night                  142 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
 ```
-
-📊 **This Week I Spent My Time On**
+📅 **I'm Most Productive on Monday** 
 
 ```text
-💬 Programming Languages:
-TypeScript               16 hrs 24 mins      ███████████████████░░░░░░   76.00 %
-Markdown                 1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 %
-JavaScript               1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
-JSON                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
-SCSS                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
-
-🐱‍💻 Projects:
-lext                     20 hrs 16 mins      ███████████████████████░░   93.84 %
-cyberdrom                1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
+Monday                   212 commits         ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
+Tuesday                  150 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Wednesday                91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+Thursday                 118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Friday                   66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+Saturday                 98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+Sunday                   165 commits         █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
 ```
 
-Last Updated on 15/10/2023 14:03:38 UTC
 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               17 hrs 53 mins      █████████████████░░░░░░░░   66.90 % 
+Markdown                 3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+JavaScript               2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+JSON                     1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+HTML                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+
+🐱‍💻 Projects: 
+lext                     21 hrs 25 mins      ████████████████████░░░░░   80.11 % 
+musiclyrics              1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+cyberdrom                55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+lld4n                    48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+rl52                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+```
+
+
+ Last Updated on 16/10/2023 00:53:09 UTC
 <!--END_SECTION:waka-->
 
   <picture>
