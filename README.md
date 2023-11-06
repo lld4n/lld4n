@@ -57,4 +57,6 @@ Labr                     44 mins             █░░░░░░░░░░�
 
 ---
 
+# 100+ уже круто, но надо больше
+
 <div align="center"><img src="https://leetcode-stats-six.vercel.app/api?username=lldan&theme=dark"/></div>
