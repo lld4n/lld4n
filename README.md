@@ -57,6 +57,6 @@ convex-tour-chat         39 mins             █░░░░░░░░░░�
 
 ---
 
-# 100+ уже круто, но надо больше
+# 200 даже
 
 <div align="center"><img src="https://leetcode-stats-six.vercel.app/api?username=lldan&theme=dark"/></div>
