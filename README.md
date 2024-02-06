@@ -1,9 +1,5 @@
-<h1 align="center" ><a href="https://lldan.ru/" target="_blank">lldan</a>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<div align="end">
-Frontend Developer<br/>
-Kazan
-</div>
+<h1 align="center" ><a href="https://lldan.ru/" target="_blank">lldan</a></h1>
+<div align="center">Frontend Developer<br/>Kazan</div>
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
@@ -45,15 +41,5 @@ leetcode                 6 hrs 38 mins       █████░░░░░░�
 
  Last Updated on 06/02/2024 00:51:02 UTC
 <!--END_SECTION:waka-->
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lld4n/lld4n/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lld4n/lld4n/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lld4n/lld4n/output/github-contribution-grid-snake.svg">
-  </picture>
-
----
-
-# 200 даже
 
 <div align="center"><img src="https://leetcode-stats-six.vercel.app/api?username=lldan&theme=dark"/></div>
