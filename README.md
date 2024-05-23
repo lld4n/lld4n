@@ -5,10 +5,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                573 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-🌆 Daytime                1450 commits        ███████████░░░░░░░░░░░░░░   42.58 % 
-🌃 Evening                1058 commits        ████████░░░░░░░░░░░░░░░░░   31.07 % 
-🌙 Night                  324 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+🌞 Morning                604 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+🌆 Daytime                1540 commits        ███████████░░░░░░░░░░░░░░   43.26 % 
+🌃 Evening                1075 commits        ████████░░░░░░░░░░░░░░░░░   30.20 % 
+🌙 Night                  341 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
 ```
 
 
@@ -16,28 +16,29 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               31 hrs 19 mins      ███████████████████░░░░░░   75.55 % 
-SCSS                     3 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
-Java                     2 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
-YAML                     1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-JavaScript               53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+TypeScript               28 hrs 11 mins      ███████████████████░░░░░░   76.32 % 
+SCSS                     3 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+Java                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+JavaScript               55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+JSON                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
 
 🔥 Editors: 
-WebStorm                 36 hrs 45 mins      ██████████████████████░░░   88.69 % 
-Intellijidea             3 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
-VS Code                  33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-DataGrip                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+WebStorm                 33 hrs 43 mins      ███████████████████████░░   91.26 % 
+Intellijidea             1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+VS Code                  41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+CLion                    36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+DataGrip                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 🐱‍💻 Projects: 
-it_stand                 22 hrs 55 mins      ██████████████░░░░░░░░░░░   55.31 % 
-ffrontend                9 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
-oris-semester-work-3     3 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-travis                   1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
-webrtc                   1 hr 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+it_stand                 21 hrs 16 mins      ██████████████░░░░░░░░░░░   57.57 % 
+ffrontend                3 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+travis                   3 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+analyze                  2 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+webrtc                   1 hr 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
 ```
 
 
- Last Updated on 22/05/2024 00:56:45 UTC
+ Last Updated on 23/05/2024 00:56:02 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://leetcode-stats-six.vercel.app/api?username=lldan&theme=dark"/></div>
