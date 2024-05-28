@@ -5,10 +5,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                633 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-🌆 Daytime                1672 commits        ███████████░░░░░░░░░░░░░░   42.99 % 
-🌃 Evening                1218 commits        ████████░░░░░░░░░░░░░░░░░   31.32 % 
-🌙 Night                  366 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+🌞 Morning                633 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+🌆 Daytime                1672 commits        ███████████░░░░░░░░░░░░░░   42.95 % 
+🌃 Evening                1221 commits        ████████░░░░░░░░░░░░░░░░░   31.36 % 
+🌙 Night                  367 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
 ```
 
 
@@ -16,28 +16,28 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               24 hrs 9 mins       ██████████████████░░░░░░░   70.96 % 
-SCSS                     8 hrs               ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
-JSON                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
-C++                      24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
-.env file                20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+TypeScript               23 hrs 56 mins      █████████████████░░░░░░░░   66.89 % 
+SCSS                     9 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   26.46 % 
+JSON                     39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Markdown                 29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+C++                      24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 
 🔥 Editors: 
-WebStorm                 33 hrs 1 min        ████████████████████████░   96.99 % 
-CLion                    36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
-VS Code                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-Intellijidea             10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+WebStorm                 34 hrs 50 mins      ████████████████████████░   97.32 % 
+CLion                    36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+Intellijidea             10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+VS Code                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 🐱‍💻 Projects: 
-travis                   12 hrs 39 mins      █████████░░░░░░░░░░░░░░░░   37.20 % 
-it_stand                 9 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   28.99 % 
-analyze                  9 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   27.43 % 
-vitame-alpha             45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-leetcode                 36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+travis                   11 hrs 52 mins      ████████░░░░░░░░░░░░░░░░░   33.19 % 
+analyze                  9 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   27.57 % 
+it_stand                 7 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
+wex                      2 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+vitame-alpha             2 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
 ```
 
 
- Last Updated on 27/05/2024 00:57:42 UTC
+ Last Updated on 28/05/2024 00:57:07 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://leetcode-stats-six.vercel.app/api?username=lldan&theme=dark"/></div>
