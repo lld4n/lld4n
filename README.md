@@ -6,9 +6,9 @@
 
 ```text
 🌞 Morning                633 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
-🌆 Daytime                1672 commits        ███████████░░░░░░░░░░░░░░   42.95 % 
+🌆 Daytime                1673 commits        ███████████░░░░░░░░░░░░░░   42.96 % 
 🌃 Evening                1221 commits        ████████░░░░░░░░░░░░░░░░░   31.36 % 
-🌙 Night                  367 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+🌙 Night                  367 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
 ```
 
 
@@ -16,28 +16,28 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               23 hrs 56 mins      █████████████████░░░░░░░░   66.89 % 
-SCSS                     9 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   26.46 % 
-JSON                     39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-Markdown                 29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
-C++                      24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+TypeScript               23 hrs 12 mins      ████████████████░░░░░░░░░   65.78 % 
+SCSS                     9 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   27.50 % 
+JSON                     40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+Markdown                 38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+C++                      24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 
 🔥 Editors: 
-WebStorm                 34 hrs 50 mins      ████████████████████████░   97.32 % 
-CLion                    36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-Intellijidea             10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
-VS Code                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+WebStorm                 34 hrs 20 mins      ████████████████████████░   97.33 % 
+CLion                    36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Intellijidea             10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+VS Code                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 🐱‍💻 Projects: 
-travis                   11 hrs 52 mins      ████████░░░░░░░░░░░░░░░░░   33.19 % 
-analyze                  9 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   27.57 % 
-it_stand                 7 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
-wex                      2 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
-vitame-alpha             2 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+travis                   11 hrs 10 mins      ████████░░░░░░░░░░░░░░░░░   31.68 % 
+analyze                  9 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   27.97 % 
+wex                      4 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+it_stand                 4 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+vitame-alpha             2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
 ```
 
 
- Last Updated on 28/05/2024 00:57:07 UTC
+ Last Updated on 29/05/2024 01:00:02 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://leetcode-stats-six.vercel.app/api?username=lldan&theme=dark"/></div>
