@@ -7,9 +7,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                752 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-🌆 Daytime                2205 commits        ███████████░░░░░░░░░░░░░░   42.87 % 
-🌃 Evening                1748 commits        ████████░░░░░░░░░░░░░░░░░   33.98 % 
+🌞 Morning                752 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+🌆 Daytime                2206 commits        ███████████░░░░░░░░░░░░░░   42.86 % 
+🌃 Evening                1750 commits        ████████░░░░░░░░░░░░░░░░░   34.00 % 
 🌙 Night                  439 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
 ```
 
@@ -18,27 +18,27 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               9 hrs 48 mins       ██████████████████████░░░   88.02 % 
-Java                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-JavaScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
-JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-SQL                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+TypeScript               10 hrs 56 mins      ██████████████████████░░░   88.98 % 
+Java                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+JavaScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+SCSS                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 🔥 Editors: 
-WebStorm                 10 hrs 38 mins      ████████████████████████░   95.53 % 
-Intellijidea             24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-DataGrip                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+WebStorm                 11 hrs 52 mins      ████████████████████████░   96.55 % 
+Intellijidea             24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+DataGrip                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🐱‍💻 Projects: 
-it_stand                 6 hrs               █████████████░░░░░░░░░░░░   53.88 % 
-wex                      4 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   36.32 % 
-semester-work-lld4n      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-travis                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-bun                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+it_stand                 5 hrs 35 mins       ███████████░░░░░░░░░░░░░░   45.40 % 
+wex                      5 hrs 32 mins       ███████████░░░░░░░░░░░░░░   45.08 % 
+semester-work-lld4n      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+telegram-tt              24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+travis                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
 ```
 
 
- Last Updated on 09/06/2024 01:03:22 UTC
+ Last Updated on 10/06/2024 01:00:09 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://leetcode-stats-six.vercel.app/api?username=lldan&theme=dark"/></div>
