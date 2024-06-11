@@ -18,27 +18,27 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               10 hrs 56 mins      ██████████████████████░░░   88.98 % 
-Java                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
-JavaScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
-JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-SCSS                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+TypeScript               12 hrs 6 mins       ██████████████████████░░░   89.70 % 
+Java                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+JavaScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+SCSS                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 🔥 Editors: 
-WebStorm                 11 hrs 52 mins      ████████████████████████░   96.55 % 
-Intellijidea             24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
-DataGrip                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+WebStorm                 13 hrs 4 mins       ████████████████████████░   96.86 % 
+Intellijidea             24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+DataGrip                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🐱‍💻 Projects: 
-it_stand                 5 hrs 35 mins       ███████████░░░░░░░░░░░░░░   45.40 % 
-wex                      5 hrs 32 mins       ███████████░░░░░░░░░░░░░░   45.08 % 
-semester-work-lld4n      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
-telegram-tt              24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
-travis                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+it_stand                 6 hrs 47 mins       █████████████░░░░░░░░░░░░   50.25 % 
+wex                      5 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   41.07 % 
+semester-work-lld4n      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+telegram-tt              24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+travis                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 ```
 
 
- Last Updated on 10/06/2024 01:00:09 UTC
+ Last Updated on 11/06/2024 00:59:16 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://leetcode-stats-six.vercel.app/api?username=lldan&theme=dark"/></div>
