@@ -7,10 +7,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                762 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-🌆 Daytime                2262 commits        ███████████░░░░░░░░░░░░░░   42.80 % 
-🌃 Evening                1812 commits        █████████░░░░░░░░░░░░░░░░   34.29 % 
-🌙 Night                  449 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+🌞 Morning                782 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+🌆 Daytime                2364 commits        ███████████░░░░░░░░░░░░░░   42.78 % 
+🌃 Evening                1916 commits        █████████░░░░░░░░░░░░░░░░   34.67 % 
+🌙 Night                  464 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
 ```
 
 
@@ -18,26 +18,26 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               11 hrs 30 mins      ███████████████████░░░░░░   75.04 % 
-SCSS                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-JSON                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
-Vue.js                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-Java                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+TypeScript               9 hrs 51 mins       ███████████████░░░░░░░░░░   61.80 % 
+Vue.js                   2 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
+SCSS                     1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+JSON                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+JavaScript               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 
 🔥 Editors: 
-WebStorm                 14 hrs 53 mins      ████████████████████████░   97.19 % 
-Intellijidea             25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+WebStorm                 15 hrs 55 mins      █████████████████████████   99.85 % 
+Intellijidea             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🐱‍💻 Projects: 
-it_stand                 5 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   36.35 % 
-wex                      5 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   36.18 % 
-onepiece                 1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-mybron                   1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
-semester-work-lld4n      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+it_stand                 4 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   29.70 % 
+wex                      4 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   29.25 % 
+mybron                   4 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   26.41 % 
+onepiece                 1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+telegram-tt              24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
 ```
 
 
- Last Updated on 14/06/2024 00:58:39 UTC
+ Last Updated on 15/06/2024 00:58:57 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://leetcode-stats-six.vercel.app/api?username=lldan&theme=dark"/></div>
