@@ -7,10 +7,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                888 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
-🌆 Daytime                2969 commits        ███████████░░░░░░░░░░░░░░   43.02 % 
-🌃 Evening                2486 commits        █████████░░░░░░░░░░░░░░░░   36.02 % 
-🌙 Night                  558 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+🌞 Morning                890 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+🌆 Daytime                2969 commits        ███████████░░░░░░░░░░░░░░   43.00 % 
+🌃 Evening                2487 commits        █████████░░░░░░░░░░░░░░░░   36.02 % 
+🌙 Night                  558 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
 ```
 
 
@@ -18,28 +18,27 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               24 hrs 3 mins       █████████████░░░░░░░░░░░░   52.11 % 
-Vue.js                   16 hrs 32 mins      █████████░░░░░░░░░░░░░░░░   35.84 % 
-SCSS                     1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
-Other                    1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-JSON                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+TypeScript               28 hrs 25 mins      ███████████████░░░░░░░░░░   60.67 % 
+Vue.js                   13 hrs 35 mins      ███████░░░░░░░░░░░░░░░░░░   29.02 % 
+SCSS                     1 hr 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+JSON                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+Other                    50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 
 🔥 Editors: 
-WebStorm                 40 hrs 58 mins      ██████████████████████░░░   88.75 % 
-VS Code                  4 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-DataGrip                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-IntelliJ IDEA            9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+WebStorm                 42 hrs 25 mins      ███████████████████████░░   90.52 % 
+VS Code                  4 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+DataGrip                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 🐱‍💻 Projects: 
-mybron                   19 hrs 47 mins      ███████████░░░░░░░░░░░░░░   42.87 % 
-infrep_frontend          12 hrs 50 mins      ███████░░░░░░░░░░░░░░░░░░   27.82 % 
-support_bot              5 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-bridgeless-landing       3 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-frontend                 1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+mybron                   16 hrs 3 mins       █████████░░░░░░░░░░░░░░░░   34.26 % 
+infrep_frontend          14 hrs 10 mins      ████████░░░░░░░░░░░░░░░░░   30.24 % 
+support_bot              7 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
+bridgeless-landing       3 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+frontend                 1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
 ```
 
 
- Last Updated on 02/07/2024 00:59:57 UTC
+ Last Updated on 03/07/2024 00:59:48 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://leetcode-stats-six.vercel.app/api?username=lldan&theme=dark"/></div>
