@@ -41,4 +41,4 @@ stream-player            2 hrs               ██░░░░░░░░░�
  Last Updated on 16/07/2024 01:02:44 UTC
 <!--END_SECTION:waka-->
 
-<div align="center"><img src="https://leetcode-stats-six.vercel.app/api?username=lldan&theme=dark"/></div>
+<div align="center"><img src="https://leetcard.jacoblin.cool/lldan"/></div>
