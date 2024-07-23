@@ -18,27 +18,28 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               17 hrs 37 mins      ████████████░░░░░░░░░░░░░   47.23 % 
-Vue.js                   11 hrs 5 mins       ███████░░░░░░░░░░░░░░░░░░   29.73 % 
-SCSS                     6 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-Markdown                 43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-HTML                     37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+TypeScript               16 hrs 32 mins      █████████████░░░░░░░░░░░░   52.49 % 
+Vue.js                   7 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
+SCSS                     5 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
+Markdown                 43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+HTML                     35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 
 🔥 Editors: 
-WebStorm                 32 hrs 43 mins      ██████████████████████░░░   87.70 % 
-VS Code                  4 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-DataGrip                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+WebStorm                 27 hrs 4 mins       █████████████████████░░░░   85.94 % 
+VS Code                  4 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+IntelliJ IDEA            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+DataGrip                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🐱‍💻 Projects: 
-mybron                   12 hrs 31 mins      ████████░░░░░░░░░░░░░░░░░   33.56 % 
-infrep_frontend          10 hrs 41 mins      ███████░░░░░░░░░░░░░░░░░░   28.63 % 
-rct_landing              5 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-support_bot              3 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-it_stand                 2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+infrep_frontend          10 hrs 39 mins      ████████░░░░░░░░░░░░░░░░░   33.84 % 
+mybron                   8 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   26.23 % 
+rct_landing              4 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+support_bot              3 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+it_stand                 1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
 ```
 
 
- Last Updated on 22/07/2024 01:03:49 UTC
+ Last Updated on 23/07/2024 01:02:28 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://leetcard.jacoblin.cool/lldan"/></div>
