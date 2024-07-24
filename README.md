@@ -8,8 +8,8 @@
 
 ```text
 🌞 Morning                1104 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-🌆 Daytime                3924 commits        ███████████░░░░░░░░░░░░░░   44.29 % 
-🌃 Evening                3204 commits        █████████░░░░░░░░░░░░░░░░   36.17 % 
+🌆 Daytime                3924 commits        ███████████░░░░░░░░░░░░░░   44.28 % 
+🌃 Evening                3207 commits        █████████░░░░░░░░░░░░░░░░   36.19 % 
 🌙 Night                  627 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
 ```
 
@@ -18,28 +18,28 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               16 hrs 32 mins      █████████████░░░░░░░░░░░░   52.49 % 
-Vue.js                   7 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
-SCSS                     5 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
-Markdown                 43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-HTML                     35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+TypeScript               12 hrs 15 mins      █████████████░░░░░░░░░░░░   50.22 % 
+Vue.js                   7 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   29.71 % 
+SCSS                     2 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+Markdown                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+HTML                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
 
 🔥 Editors: 
-WebStorm                 27 hrs 4 mins       █████████████████████░░░░   85.94 % 
-VS Code                  4 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-IntelliJ IDEA            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-DataGrip                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+WebStorm                 22 hrs 3 mins       ███████████████████████░░   90.42 % 
+VS Code                  2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+IntelliJ IDEA            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+DataGrip                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🐱‍💻 Projects: 
-infrep_frontend          10 hrs 39 mins      ████████░░░░░░░░░░░░░░░░░   33.84 % 
-mybron                   8 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   26.23 % 
-rct_landing              4 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
-support_bot              3 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-it_stand                 1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+mybron                   8 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   33.86 % 
+infrep_frontend          6 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   26.59 % 
+support_bot              3 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+rct_landing              2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+it_stand                 1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
 ```
 
 
- Last Updated on 23/07/2024 01:02:28 UTC
+ Last Updated on 24/07/2024 01:03:02 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://leetcard.jacoblin.cool/lldan"/></div>
