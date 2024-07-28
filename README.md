@@ -18,27 +18,27 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 23 mins       ███████████████░░░░░░░░░░   60.75 % 
-SCSS                     38 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-HTML                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
-YAML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
-JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+TypeScript               28 mins             █████████░░░░░░░░░░░░░░░░   34.70 % 
+SCSS                     21 mins             ███████░░░░░░░░░░░░░░░░░░   26.44 % 
+YAML                     13 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+JSON                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+Markdown                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
 
 🔥 Editors: 
-WebStorm                 2 hrs 19 mins       ███████████████░░░░░░░░░░   59.24 % 
-VS Code                  1 hr 34 mins        ██████████░░░░░░░░░░░░░░░   40.21 % 
-IntelliJ IDEA            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+WebStorm                 1 hr 14 mins        ██████████████████████░░░   89.56 % 
+VS Code                  7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+IntelliJ IDEA            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 
 🐱‍💻 Projects: 
-infrep_frontend          1 hr 35 mins        ██████████░░░░░░░░░░░░░░░   40.25 % 
-test1                    56 mins             ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
-rct_landing              47 mins             █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
-lld4n                    20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
-nx-test                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+rct_landing              47 mins             ██████████████░░░░░░░░░░░   57.52 % 
+lld4n                    20 mins             ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
+nx-test                  8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+test1                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+infrep-backend           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 ```
 
 
- Last Updated on 27/07/2024 01:01:41 UTC
+ Last Updated on 28/07/2024 01:06:49 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://leetcard.jacoblin.cool/lldan"/></div>
