@@ -18,27 +18,26 @@
 
 ```text
 💬 Programming Languages: 
-JSON                     57 mins             █████████████░░░░░░░░░░░░   53.74 % 
-TypeScript               14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-HTML                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
-JavaScript               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
-Markdown                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+JSON                     50 mins             █████████████░░░░░░░░░░░░   52.34 % 
+HTML                     13 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+TypeScript               11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+JavaScript               10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+Markdown                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 
 🔥 Editors: 
-WebStorm                 1 hr 39 mins        ███████████████████████░░   91.98 % 
-VS Code                  7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-IntelliJ IDEA            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+WebStorm                 1 hr 28 mins        ███████████████████████░░   92.32 % 
+VS Code                  7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
 
 🐱‍💻 Projects: 
-es                       1 hr 17 mins        ██████████████████░░░░░░░   71.84 % 
-nx-test                  8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-lld4n                    7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-taiga-ui                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
-mybron                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+es                       1 hr 17 mins        ████████████████████░░░░░   80.92 % 
+lld4n                    7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+taiga-ui                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+mybron                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+lest-angular             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 ```
 
 
- Last Updated on 29/07/2024 01:03:30 UTC
+ Last Updated on 30/07/2024 01:02:02 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://leetcard.jacoblin.cool/lldan"/></div>
