@@ -18,26 +18,24 @@
 
 ```text
 💬 Programming Languages: 
-JSON                     50 mins             █████████████░░░░░░░░░░░░   52.34 % 
-HTML                     13 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-TypeScript               11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-JavaScript               10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
-Markdown                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+JSON                     50 mins             ██████████████░░░░░░░░░░░   56.70 % 
+HTML                     13 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+TypeScript               11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+JavaScript               10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+Vue.js                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 
 🔥 Editors: 
-WebStorm                 1 hr 28 mins        ███████████████████████░░   92.32 % 
-VS Code                  7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+WebStorm                 1 hr 28 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-es                       1 hr 17 mins        ████████████████████░░░░░   80.92 % 
-lld4n                    7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
-taiga-ui                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-mybron                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
-lest-angular             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+es                       1 hr 17 mins        ██████████████████████░░░   87.65 % 
+taiga-ui                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+mybron                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+lest-angular             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 ```
 
 
- Last Updated on 30/07/2024 01:02:02 UTC
+ Last Updated on 31/07/2024 00:52:50 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://leetcard.jacoblin.cool/lldan"/></div>
