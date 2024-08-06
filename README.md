@@ -4,8 +4,36 @@
 <div align="center"><img src="https://wakatime.com/badge/user/018afba7-2ebc-4282-8545-d0250012991b.svg" alt="Total time coded since Oct 4 2023" /></div>
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
 
- Last Updated on 05/08/2024 01:04:16 UTC
+```text
+🌞 Morning                1241 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+🌆 Daytime                4633 commits        ███████████░░░░░░░░░░░░░░   44.72 % 
+🌃 Evening                3781 commits        █████████░░░░░░░░░░░░░░░░   36.50 % 
+🌙 Night                  704 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+HTML                     4 mins              ██████████████████░░░░░░░   73.73 % 
+TypeScript               1 min               █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+
+🔥 Editors: 
+WebStorm                 6 mins              █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+lldan                    5 mins              ███████████████████████░░   93.31 % 
+taiga-ui                 0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
+```
+
+
+ Last Updated on 06/08/2024 01:02:33 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://leetcard.jacoblin.cool/lldan"/></div>
