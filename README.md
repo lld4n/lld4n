@@ -7,10 +7,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1456 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-🌆 Daytime                5575 commits        ███████████░░░░░░░░░░░░░░   45.19 % 
-🌃 Evening                4505 commits        █████████░░░░░░░░░░░░░░░░   36.51 % 
-🌙 Night                  802 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+🌞 Morning                1486 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+🌆 Daytime                5709 commits        ███████████░░░░░░░░░░░░░░   45.23 % 
+🌃 Evening                4610 commits        █████████░░░░░░░░░░░░░░░░   36.53 % 
+🌙 Night                  816 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
 ```
 
 
@@ -18,26 +18,26 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 26 mins       █████████████████████░░░░   85.81 % 
-GitIgnore file           7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
-SCSS                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+TypeScript               3 hrs 2 mins        ██████████████████████░░░   88.29 % 
+GitIgnore file           7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+SCSS                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
 
 🔥 Editors: 
-WebStorm                 2 hrs 50 mins       █████████████████████████   99.88 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+WebStorm                 3 hrs 26 mins       █████████████████████████   99.90 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🐱‍💻 Projects: 
-leetcode                 2 hrs 14 mins       ████████████████████░░░░░   78.86 % 
-01                       19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-lldan                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-rxjs-challenge-01        5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+leetcode                 2 hrs 50 mins       █████████████████████░░░░   82.54 % 
+01                       19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+lldan                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+rxjs-challenge-01        5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 ```
 
 
- Last Updated on 13/08/2024 01:05:17 UTC
+ Last Updated on 14/08/2024 01:04:06 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://leetcard.jacoblin.cool/lldan"/></div>
