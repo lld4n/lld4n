@@ -7,10 +7,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1611 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-🌆 Daytime                6246 commits        ███████████░░░░░░░░░░░░░░   45.40 % 
-🌃 Evening                5030 commits        █████████░░░░░░░░░░░░░░░░   36.56 % 
-🌙 Night                  872 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+🌞 Morning                1611 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+🌆 Daytime                6252 commits        ███████████░░░░░░░░░░░░░░   45.40 % 
+🌃 Evening                5036 commits        █████████░░░░░░░░░░░░░░░░   36.57 % 
+🌙 Night                  872 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
 ```
 
 
@@ -18,27 +18,27 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 40 mins       ████████████████░░░░░░░░░   64.31 % 
-Kotlin                   40 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-JSON                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
-Java                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
-Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+TypeScript               3 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   37.99 % 
+Kotlin                   2 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   24.70 % 
+JSON                     1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Markdown                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+JavaScript               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
 
 🔥 Editors: 
-WebStorm                 2 hrs 52 mins       █████████████████░░░░░░░░   69.02 % 
-IntelliJ IDEA            1 hr 15 mins        ████████░░░░░░░░░░░░░░░░░   30.07 % 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+IntelliJ IDEA            4 hrs 41 mins       █████████████░░░░░░░░░░░░   52.69 % 
+WebStorm                 3 hrs 57 mins       ███████████░░░░░░░░░░░░░░   44.56 % 
+VS Code                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
 
 🐱‍💻 Projects: 
-leetcode                 2 hrs 19 mins       ██████████████░░░░░░░░░░░   55.72 % 
-jetbrains-icons          42 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
-01                       19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
-lldan-icons              13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
-test                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+rocket-icons             3 hrs 50 mins       ███████████░░░░░░░░░░░░░░   43.24 % 
+leetcode                 1 hr 45 mins        █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
+rocket-icons-jetbrains   1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+jetbrains-icons          51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+taiga-ui                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 ```
 
 
- Last Updated on 18/08/2024 01:07:10 UTC
+ Last Updated on 19/08/2024 01:05:13 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://leetcard.jacoblin.cool/lldan"/></div>
