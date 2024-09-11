@@ -18,27 +18,27 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   40.09 % 
-Markdown                 1 hr 28 mins        █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
-JSON                     58 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
-Kotlin                   28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-Other                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+TypeScript               2 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   34.43 % 
+Markdown                 1 hr 31 mins        ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
+JSON                     58 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+Kotlin                   28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   34.19 % 
-IntelliJ IDEA            2 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   33.82 % 
-WebStorm                 2 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   31.99 % 
+VS Code                  2 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   36.86 % 
+IntelliJ IDEA            2 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   36.45 % 
+WebStorm                 1 hr 40 mins        ███████░░░░░░░░░░░░░░░░░░   26.69 % 
 
 🐱‍💻 Projects: 
-rocket-icons-vscode      2 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   34.00 % 
-rocket-icons-jetbrains   2 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   32.99 % 
-rocket-icons             1 hr 58 mins        ███████░░░░░░░░░░░░░░░░░░   29.16 % 
-leetcode                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-taiga-ui                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+rocket-icons-vscode      2 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   36.66 % 
+rocket-icons-jetbrains   2 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   35.56 % 
+rocket-icons             1 hr 39 mins        ███████░░░░░░░░░░░░░░░░░░   26.35 % 
+taiga-ui                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+jetbrains-icons          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 ```
 
 
- Last Updated on 10/09/2024 01:05:26 UTC
+ Last Updated on 11/09/2024 01:05:38 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://leetcard.jacoblin.cool/lldan"/></div>
