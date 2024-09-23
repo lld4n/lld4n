@@ -18,25 +18,17 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               8 mins              ██████████░░░░░░░░░░░░░░░   41.67 % 
-Markdown                 6 mins              ████████░░░░░░░░░░░░░░░░░   30.60 % 
-HTML                     2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-Kotlin                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-GitIgnore file           0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 18 mins             ███████████████████████░░   93.64 % 
-IntelliJ IDEA            1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-rocket-icons             8 mins              ███████████░░░░░░░░░░░░░░   43.26 % 
-leetcode                 7 mins              █████████░░░░░░░░░░░░░░░░   35.65 % 
-taiga-ui                 2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
-rocket-icons-jetbrains   1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 22/09/2024 01:12:59 UTC
+ Last Updated on 23/09/2024 01:08:20 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://leetcard.jacoblin.cool/lldan"/></div>
