@@ -18,26 +18,26 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 37 mins        █████████░░░░░░░░░░░░░░░░   34.03 % 
-HTML                     1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
-Less                     55 mins             █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
-JSON                     43 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+TypeScript               1 hr 37 mins        █████████░░░░░░░░░░░░░░░░   36.11 % 
+HTML                     1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   22.79 % 
+Less                     55 mins             █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
+JSON                     26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
 
 🔥 Editors: 
-WebStorm                 4 hrs 18 mins       ███████████████████████░░   90.60 % 
-VS Code                  26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+WebStorm                 4 hrs 18 mins       ████████████████████████░   96.16 % 
+VS Code                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
 
 🐱‍💻 Projects: 
-npmtree                  4 hrs 15 mins       ██████████████████████░░░   89.31 % 
-rocket-icons-vscode      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
-npmfail                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-bundle                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+npmtree                  4 hrs 15 mins       ████████████████████████░   94.78 % 
+npmfail                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+bundle                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+rocket-icons             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 ```
 
 
- Last Updated on 03/10/2024 01:08:25 UTC
+ Last Updated on 04/10/2024 01:08:11 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://leetcard.jacoblin.cool/lldan"/></div>
