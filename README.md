@@ -18,26 +18,24 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 37 mins        █████████░░░░░░░░░░░░░░░░   36.11 % 
-HTML                     1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   22.79 % 
-Less                     55 mins             █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
-JSON                     26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
-Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+TypeScript               1 hr 37 mins        ██████████░░░░░░░░░░░░░░░   38.48 % 
+HTML                     1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
+Less                     55 mins             ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
+JSON                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+TSConfig                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
 
 🔥 Editors: 
-WebStorm                 4 hrs 18 mins       ████████████████████████░   96.16 % 
-VS Code                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+WebStorm                 4 hrs 1 min         ████████████████████████░   95.90 % 
+VS Code                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
 
 🐱‍💻 Projects: 
-npmtree                  4 hrs 15 mins       ████████████████████████░   94.78 % 
-npmfail                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-bundle                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-rocket-icons             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+npmtree                  4 hrs 1 min         ████████████████████████░   95.64 % 
+npmfail                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 ```
 
 
- Last Updated on 04/10/2024 01:08:11 UTC
+ Last Updated on 05/10/2024 01:07:23 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://leetcard.jacoblin.cool/lldan"/></div>
