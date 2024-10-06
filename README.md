@@ -18,24 +18,19 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 37 mins        ██████████░░░░░░░░░░░░░░░   38.48 % 
-HTML                     1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
-Less                     55 mins             ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
-JSON                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-TSConfig                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+TypeScript               22 mins             ██████████████████░░░░░░░   73.62 % 
+HTML                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+Less                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
 
 🔥 Editors: 
-WebStorm                 4 hrs 1 min         ████████████████████████░   95.90 % 
-VS Code                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+WebStorm                 30 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-npmtree                  4 hrs 1 min         ████████████████████████░   95.64 % 
-npmfail                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+npmtree                  30 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/10/2024 01:07:23 UTC
+ Last Updated on 06/10/2024 01:13:07 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://leetcard.jacoblin.cool/lldan"/></div>
