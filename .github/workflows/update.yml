@@ -24,17 +24,19 @@ jobs:
       - name: Run JavaScript file
         run: node index.js
 
-      - name: Check for changes
-        id: check_changes
-        run: |
-          git diff --quiet || echo "changes_detected=true" >> $GITHUB_ENV
-
-      - name: Commit changes
-        if: env.changes_detected == 'true'
+      - name: Prepare for changes
         run: |
           git config --local user.email "safinildan@gmail.com"
           git config --local user.name "lld4n"
           git add .
+
+      - name: Check for changes
+        id: check_changes
+        run: git diff --quiet || echo "changes_detected=true" >> $GITHUB_ENV
+
+      - name: Commit changes
+        if: env.changes_detected == 'true'
+        run: |
           git commit -m "$(date '+%Y-%m-%d %H:%M:%S')"
           git push
         env:
