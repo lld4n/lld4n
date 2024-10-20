@@ -3,6 +3,9 @@ name: Update README
 on:
   schedule:
     - cron: '0 0 * * *'
+  push:
+    branches:
+      - main
 
 jobs:
   update-readme:
@@ -20,7 +23,13 @@ jobs:
       - name: Run JavaScript file
         run: node index.js
 
+      - name: Check for changes
+        id: check_changes
+        run: |
+          git diff --exit-code || echo "changes"
+
       - name: Commit changes
+        if: steps.check_changes.outputs.changes == 'changes'
         run: |
           git config --local user.email "safinildan@gmail.com"
           git config --local user.name "lldan"
