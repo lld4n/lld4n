@@ -1,13 +1,13 @@
 I'm the kind of guy who likes angular
 
 <!--LEETCODE-->
-leetcode
 ```
+leetcode
 total     799       █████░░░░░░░░░░░░░░░ 24.02 %
 easy      537       █████████████░░░░░░░ 64.70 %
 medium    215       ███░░░░░░░░░░░░░░░░░ 12.35 %
 hard      47        ██░░░░░░░░░░░░░░░░░░ 06.22 %
+10/20/2024, 4:06:45 PM
 ```
-10/20/2024, 12:31:12 PM
 <!--LEETCODE-->
 
