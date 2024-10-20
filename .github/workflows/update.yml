@@ -26,10 +26,10 @@ jobs:
       - name: Check for changes
         id: check_changes
         run: |
-          git diff --exit-code || echo "changes"
+          git diff --exit-code; echo $?
 
       - name: Commit changes
-        if: steps.check_changes.outputs.changes == 'changes'
+        if: steps.check_changes.outcome == 'failure'
         run: |
           git config --local user.email "safinildan@gmail.com"
           git config --local user.name "lldan"
