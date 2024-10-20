@@ -32,9 +32,13 @@ jobs:
 
       - name: Check for changes
         id: check_changes
-        run: git diff --quiet || echo "changes_detected=true" >> $GITHUB_ENV
+        run: git diff --quiet
+             if [ $? -ne 0 ]; then
+               echo "changes_detected=true" >> $GITHUB_ENV
+             fi
 
-      - name: Commit changes
+
+    - name: Commit changes
         if: env.changes_detected == 'true'
         run: |
           git commit -m "$(date '+%Y-%m-%d %H:%M:%S')"
