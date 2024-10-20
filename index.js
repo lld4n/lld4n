@@ -3,44 +3,38 @@ import fs from "fs"
 const md = "<!--LEETCODE-->"
 
 async function main() {
-  try {
-    const data = await fetch("https://leetcode-stats-api.herokuapp.com/lldan");
-    const json = await data.json();
+  const data = await fetch("https://leetcode-stats-api.herokuapp.com/lldan");
+  const json = await data.json();
 
-    if (!json.easySolved) {
-      return
-    }
-
-    const info = {
-      total: {solved: json.totalSolved, all: json.totalQuestions},
-      easy: {solved: json.easySolved, all: json.totalEasy},
-      medium: {solved: json.mediumSolved, all: json.totalMedium},
-      hard: {solved: json.hardSolved, all: json.totalHard}
-    }
-    console.log(info)
-
-
-    const readme = fs.readFileSync("./README.md").toString()
-
-    const spl = readme.split(md)
-
-    let stat = `\nleetcode\n`
-    stat += "\`\`\`\n"
-
-    for (const key in info) {
-      stat += up(key)
-      stat += up(info[key].solved.toString())
-      stat += line(info[key].all, info[key].solved)
-      stat += percentage(info[key].solved, info[key].all) + "\n"
-    }
-
-    stat += "\`\`\`\n"
-
-    fs.writeFileSync('./README.md', [spl[0], stat, spl[2]].join(md))
-
-  } catch (e) {
-    console.log("Error")
+  if (!json.easySolved) {
+    return
   }
+
+  const info = {
+    total: {solved: json.totalSolved, all: json.totalQuestions},
+    easy: {solved: json.easySolved, all: json.totalEasy},
+    medium: {solved: json.mediumSolved, all: json.totalMedium},
+    hard: {solved: json.hardSolved, all: json.totalHard}
+  }
+  const readme = fs.readFileSync("./README.md").toString()
+
+  const spl = readme.split(md)
+
+  let stat = `\nleetcode\n`
+  stat += "\`\`\`\n"
+
+  for (const key in info) {
+    stat += up(key)
+    stat += up(info[key].solved.toString())
+    stat += line(info[key].all, info[key].solved)
+    stat += percentage(info[key].solved, info[key].all) + "\n"
+  }
+
+  stat += "\`\`\`\n"
+  stat += new Date().toLocaleString() + "\n"
+
+  fs.writeFileSync('./README.md', [spl[0], stat, spl[2]].join(md))
+
 
 }
 
