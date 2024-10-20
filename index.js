@@ -27,11 +27,11 @@ async function main() {
     stat += up(key)
     stat += up(info[key].solved.toString())
     stat += line(info[key].all, info[key].solved)
-    stat += percentage(info[key].solved, info[key].all) + "\n\n"
+    stat += percentage(info[key].solved, info[key].all) + "\n"
   }
 
-  stat += new Date().toLocaleString() + "\n"
   stat += "\`\`\`\n"
+  stat += new Date().toLocaleString() + "\n"
 
   fs.writeFileSync('./README.md', [spl[0], stat, spl[2]].join(md))
 
