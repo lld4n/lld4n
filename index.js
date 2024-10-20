@@ -21,7 +21,7 @@ async function main() {
   const spl = readme.split(md)
 
   let stat = `\n\`\`\`\n`
-  stat += "leetcode\n"
+  stat += "leetcode\n\n"
 
   for (const key in info) {
     stat += up(key)
@@ -30,7 +30,7 @@ async function main() {
     stat += percentage(info[key].solved, info[key].all) + "\n"
   }
 
-  stat += new Date().toLocaleString() + "\n"
+  stat += new Date().toLocaleString() + "\n\n"
   stat += "\`\`\`\n"
 
   fs.writeFileSync('./README.md', [spl[0], stat, spl[2]].join(md))
