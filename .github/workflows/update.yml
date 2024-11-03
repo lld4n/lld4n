@@ -8,6 +8,9 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
@@ -24,12 +27,9 @@ jobs:
       - name: Run JavaScript file
         run: node index.js
 
-      - name: Commit changes
-        run: |
-          git config --local user.email "safinildan@gmail.com"
-          git config --local user.name "lld4n"
-          git add .
-          git commit -m "$(date '+%Y-%m-%d %H:%M:%S')"
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+      - name: Commit README
+        uses: EndBug/add-and-commit@v9
+        with:
+          fetch: false
+          message: "$(date '+%Y-%m-%d %H:%M:%S')"
+          add: 'README.md'
