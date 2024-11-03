@@ -2,20 +2,60 @@ import fs from "fs"
 
 const md = "<!--LEETCODE-->"
 
+const url = 'https://leetcode.com/graphql';
+const username = 'lldan';
+
+const query = `
+{
+  allQuestionsCount {
+    difficulty
+    count
+  }
+  matchedUser(username: "${username}") {
+    username
+    submitStats: submitStatsGlobal {
+      totalSubmissionNum {
+        difficulty
+        count
+      }
+    }
+  }
+}`
+
+
+const options = {
+  method: 'POST',
+  headers: {
+    'Content-Type': 'application/json',
+  },
+  body: JSON.stringify({query}),
+};
+
+
 async function main() {
-  const data = await fetch("https://leetcode-stats-api.herokuapp.com/lldan");
+  const data = await fetch(url, options);
   const json = await data.json();
 
-  if (!json.easySolved) {
-    return
+
+  if (!json.data) {
+    return;
   }
 
   const info = {
-    total: {solved: json.totalSolved, all: json.totalQuestions},
-    easy: {solved: json.easySolved, all: json.totalEasy},
-    medium: {solved: json.mediumSolved, all: json.totalMedium},
-    hard: {solved: json.hardSolved, all: json.totalHard}
+    All: {solved: 0, count: 0},
+    Easy: {solved: 0, count: 0},
+    Medium: {solved: 0, count: 0},
+    Hard: {solved: 0, count: 0},
   }
+
+  for (const total of json.data.allQuestionsCount) {
+    info[total.difficulty].total = total.count;
+  }
+
+  for (const total of json.data.matchedUser.submitStats.totalSubmissionNum) {
+    info[total.difficulty].count = total.count;
+  }
+
   const readme = fs.readFileSync("./README.md").toString()
 
   const spl = readme.split(md)
@@ -25,9 +65,9 @@ async function main() {
 
   for (const key in info) {
     stat += up(key)
-    stat += up(info[key].solved.toString())
-    stat += line(info[key].all, info[key].solved)
-    stat += percentage(info[key].solved, info[key].all) + "\n"
+    stat += up(info[key].count.toString())
+    stat += line(info[key].total, info[key].count)
+    stat += percentage(info[key].count, info[key].total) + "\n"
   }
 
   stat += "\`\`\`\n"
