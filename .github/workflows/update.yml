@@ -31,5 +31,5 @@ jobs:
         uses: EndBug/add-and-commit@v9
         with:
           fetch: false
-          message: "$(date '+%Y-%m-%d %H:%M:%S')"
+          message: "${{ github.event.time }}"
           add: 'README.md'
